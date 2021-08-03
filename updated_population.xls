@@ -1,0 +1,111 @@
+country,code,ISO_lang,population,language
+Afghanistan,AFG,ps,39835428.0,pashto
+Algeria,DZA,ar,44699453.0,arabic
+Angola,AGO,pt,33958209.0,portuguese
+Argentina,ARG,es,45605826.0,spanish
+Australia,AUS,en,25788215.0,english
+Bahrain,BHR,ar,1748296.0,arabic
+Belgium,BEL,nl,11632326.0,dutch
+Bolivia,BOL,es,11844236.0,spanish
+Botswana,BWA,en,2402605.0,english
+Brazil,BRA,pt,213993437.0,portuguese
+Bulgaria,BGR,bg,6896663.0,bulgarian
+Canada,CAN,en,38067903.0,english
+Chad,TCD,fr,16929576.0,french
+Chile,CHL,es,19212361.0,spanish
+China,CHN,zh-cn,1444216107.0,chinese (simplified)
+Colombia,COL,es,51265844.0,spanish
+Congo,COG,fr,92447623.0,french
+Costa Rica,CRI,es,5139052.0,spanish
+Croatia,HRV,fr,4081651.0,french
+Cuba,CUB,es,11317505.0,spanish
+Cyprus,CYP,el,1215584.0,greek
+Czech Republic,CZE,cs,10724555.0,czech
+Democratic Republic of Congo,COD,fr,92447623.0,french
+Denmark,DNK,da,5813298.0,danish
+Dominican Republic,DOM,es,10953703.0,spanish
+Egypt,EGY,ar,104258327.0,arabic
+Eritrea,ERI,ar,3601467.0,arabic
+Estonia,EST,en,1327487.0,english
+Ethiopia,ETH,am,117876227.0,amharic
+Finland,FIN,fi,5548360.0,finnish
+France,FRA,fr,65426179.0,french
+Germany,DEU,de,83900473.0,german
+Ghana,GHA,en,31765650.0,english
+Greece,GRC,el,10370744.0,greek
+Greenland,GRL,da,56225.0,danish
+Haiti,HTI,ht,11541685.0,haitian creole
+Hong Kong,HKG,zh-tw,7552810.0,chinese (traditional)
+Hungary,HUN,hu,9634164.0,hungarian
+Iceland,ISL,is,343353.0,icelandic
+India,IND,hi,1393409038.0,hindi
+Indonesia,IDN,id,276361783.0,indonesian
+Iran,IRN,fa,85028759.0,persian
+Iraq,IRQ,ar,41179350.0,arabic
+Ireland,IRL,ga,4982907.0,irish
+Israel,ISR,he,8789774.0,hebrew
+Italy,ITA,it,60367477.0,italian
+Jamaica,JAM,en,2973463.0,english
+Japan,JPN,ja,126050804.0,japanese
+Kazakhstan,KAZ,kk,18994962.0,kazakh
+Kenya,KEN,sw,54985698.0,swahili
+Kuwait,KWT,ar,4328550.0,arabic
+Lebanon,LBN,ar,6769146.0,arabic
+Liberia,LBR,en,5184881.0,english
+Libya,LBY,ar,6971508.0,arabic
+Lithuania,LTU,lt,2689862.0,lithuanian
+Luxembourg,LUX,lb,634814.0,luxembourgish
+Madagascar,MDG,en,2697222.0,english
+Malaysia,MYS,ms,32776194.000000004,malay
+Mali,MLI,fr,20874163.0,french
+Mexico,MEX,es,130262216.0,spanish
+Mongolia,MNG,mn,3329289.0,mongolian
+Morocco,MAR,ar,37344795.0,arabic
+Mozambique,MOZ,pt,32191405.0,portuguese
+Myanmar,MMR,my,54802585.0,myanmar (burmese)
+Namibia,NAM,en,2587344.0,english
+Netherlands,NLD,nl,17173099.0,dutch
+New Zealand,NZL,en,4860643.0,english
+Niger,NER,fr,25141349.0,french
+Nigeria,NGA,en,211400708.0,english
+Norway,NOR,no,5465630.0,norwegian
+Pakistan,PAK,ur,225199937.0,urdu
+Panama,PAN,es,4381579.0,spanish
+Papua New Guinea,PNG,en,8000000.0,english
+Paraguay,PRY,es,7219638.0,spanish
+Peru,PER,es,33359418.0,spanish
+Philippines,PHL,en,111046913.0,english
+Poland,POL,pl,37797005.0,polish
+Portugal,PRT,pt,10167925.0,portuguese
+Puerto Rico,PRI,es,2828255.0,spanish
+Qatar,QAT,ar,2930528.0,arabic
+Romania,ROU,ro,19127774.0,romanian
+Russia,RUS,ru,145912025.0,russian
+Saudi Arabia,SAU,ar,35340683.0,arabic
+Serbia,SRB,sr,8697550.0,serbian
+Singapore,SGP,en,5896686.0,english
+Slovakia,SVK,sk,5460721.0,slovak
+Somalia,SOM,so,15893222.0,somali
+South Africa,ZAF,sm,60041994.0,samoan
+South Sudan,SSD,en,11334541.0,english
+Spain,ESP,es,46745216.0,spanish
+Sri Lanka,LKA,si,21497310.0,sinhala
+Sudan,SDN,ar,44909353.0,arabic
+Sweden,SWE,sv,10160169.0,swedish
+Switzerland,CHE,fr,8715494.0,french
+Syria,SYR,ar,18275702.0,arabic
+Taiwan,TWN,zh-tw,23855010.0,chinese (traditional)
+Tanzania,TZA,sw,61547940.0,swahili
+Thailand,THA,th,69950850.0,thai
+Turkey,TUR,tr,85042738.0,turkish
+Ukraine,UKR,uk,43466819.0,ukrainian
+United Arab Emirates,ARE,ar,9991089.0,arabic
+United Kingdom,GBR,en,68207116.0,english
+United States,USA,en,332915073.0,english
+Uruguay,URY,es,3485151.0,spanish
+Uzbekistan,UZB,uz,33935763.0,uzbek
+Venezuela,VEN,es,28704954.0,spanish
+Vietnam,VNM,vi,98168833.0,vietnamese
+Yemen,YEM,ar,30530919.0,arabic
+Zambia,ZMB,en,18934268.0,english
+Zimbabwe,ZWE,sn,15092171.0,shona
