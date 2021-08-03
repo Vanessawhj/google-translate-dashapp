@@ -1,0 +1,111 @@
+country,code,ISO_lang,population,language
+Afghanistan,AFG,ps,39835428,pashto
+Algeria,DZA,ar,44699453,arabic
+Angola,AGO,pt,33958209,portuguese
+Argentina,ARG,es,45605826,spanish
+Australia,AUS,en,25788215,english
+Bahrain,BHR,ar,1748296,arabic
+Belgium,BEL,nl,11632326,dutch
+Bolivia,BOL,es,11844236,spanish
+Botswana,BWA,en,2402605,english
+Brazil,BRA,pt,213993437,portuguese
+Bulgaria,BGR,bg,6896663,bulgarian
+Canada,CAN,en,38067903,english
+Chad,TCD,fr,16929576,french
+Chile,CHL,es,19212361,spanish
+China,CHN,zh-cn,1444216107,chinese (simplified)
+Colombia,COL,es,51265844,spanish
+Congo,COG,fr,92447623,french
+Costa Rica,CRI,es,5139052,spanish
+Croatia,HRV,fr,4081651,french
+Cuba,CUB,es,11317505,spanish
+Cyprus,CYP,el,1215584,greek
+Czech Republic,CZE,cs,10724555,czech
+Democratic Republic of Congo,COD,fr,92447623,french
+Denmark,DNK,da,5813298,danish
+Dominican Republic,DOM,es,10953703,spanish
+Egypt,EGY,ar,104258327,arabic
+Eritrea,ERI,ar,3601467,arabic
+Estonia,EST,en,1327487,english
+Ethiopia,ETH,am,117876227,amharic
+Finland,FIN,fi,5548360,finnish
+France,FRA,fr,65426179,french
+Germany,DEU,de,83900473,german
+Ghana,GHA,en,31765650,english
+Greece,GRC,el,10370744,greek
+Greenland,GRL,da,56225,danish
+Haiti,HTI,ht,11541685,haitian creole
+Hong Kong,HKG,zh-tw,7552810,chinese (traditional)
+Hungary,HUN,hu,9634164,hungarian
+Iceland,ISL,is,343353,icelandic
+India,IND,hi,1393409038,hindi
+Indonesia,IDN,id,276361783,indonesian
+Iran,IRN,fa,85028759,persian
+Iraq,IRQ,ar,41179350,arabic
+Ireland,IRL,ga,4982907,irish
+Israel,ISR,he,8789774,hebrew
+Italy,ITA,it,60367477,italian
+Jamaica,JAM,en,2973463,english
+Japan,JPN,ja,126050804,japanese
+Kazakhstan,KAZ,kk,18994962,kazakh
+Kenya,KEN,sw,54985698,swahili
+Kuwait,KWT,ar,4328550,arabic
+Lebanon,LBN,ar,6769146,arabic
+Liberia,LBR,en,5184881,english
+Libya,LBY,ar,6971508,arabic
+Lithuania,LTU,lt,2689862,lithuanian
+Luxembourg,LUX,lb,634814,luxembourgish
+Madagascar,MDG,en,2697222,english
+Malaysia,MYS,ms,32776194,malay
+Mali,MLI,fr,20874163,french
+Mexico,MEX,es,130262216,spanish
+Mongolia,MNG,mn,3329289,mongolian
+Morocco,MAR,ar,37344795,arabic
+Mozambique,MOZ,pt,32191405,portuguese
+Myanmar,MMR,my,54802585,myanmar (burmese)
+Namibia,NAM,en,2587344,english
+Netherlands,NLD,nl,17173099,dutch
+New Zealand,NZL,en,4860643,english
+Niger,NER,fr,25141349,french
+Nigeria,NGA,en,211400708,english
+Norway,NOR,no,5465630,norwegian
+Pakistan,PAK,ur,225199937,urdu
+Panama,PAN,es,4381579,spanish
+Papua New Guinea,PNG,en,8000000,english
+Paraguay,PRY,es,7219638,spanish
+Peru,PER,es,33359418,spanish
+Philippines,PHL,en,111046913,english
+Poland,POL,pl,37797005,polish
+Portugal,PRT,pt,10167925,portuguese
+Puerto Rico,PRI,es,2828255,spanish
+Qatar,QAT,ar,2930528,arabic
+Romania,ROU,ro,19127774,romanian
+Russia,RUS,ru,145912025,russian
+Saudi Arabia,SAU,ar,35340683,arabic
+Serbia,SRB,sr,8697550,serbian
+Singapore,SGP,en,5896686,english
+Slovakia,SVK,sk,5460721,slovak
+Somalia,SOM,so,15893222,somali
+South Africa,ZAF,sm,60041994,samoan
+South Sudan,SSD,en,11334541,english
+Spain,ESP,es,46745216,spanish
+Sri Lanka,LKA,si,21497310,sinhala
+Sudan,SDN,ar,44909353,arabic
+Sweden,SWE,sv,10160169,swedish
+Switzerland,CHE,fr,8715494,french
+Syria,SYR,ar,18275702,arabic
+Taiwan,TWN,zh-tw,23855010,chinese (traditional)
+Tanzania,TZA,sw,61547940,swahili
+Thailand,THA,th,69950850,thai
+Turkey,TUR,tr,85042738,turkish
+Ukraine,UKR,uk,43466819,ukrainian
+United Arab Emirates,ARE,ar,9991089,arabic
+United Kingdom,GBR,en,68207116,english
+United States,USA,en,332915073,english
+Uruguay,URY,es,3485151,spanish
+Uzbekistan,UZB,uz,33935763,uzbek
+Venezuela,VEN,es,28704954,spanish
+Vietnam,VNM,vi,98168833,vietnamese
+Yemen,YEM,ar,30530919,arabic
+Zambia,ZMB,en,18934268,english
+Zimbabwe,ZWE,sn,15092171,shona
